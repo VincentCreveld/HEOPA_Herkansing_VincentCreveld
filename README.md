@@ -1,11 +1,13 @@
-# SimpleFPSTemplate
-Simple C++ FPS Template for Unreal Engine 4
+# HEOPA herkansing Vincent Creveld
 
-Last updated for 4.22
+De opdracht was om een experiment aan te tonen in unreal engine.
 
-# Why create a "simplified" FPS C++ Template?
-The provided C++ template that ships with the engine has several features that someone new to C++ may not be interested in like VR controls and Touch input. This code "bloats" the template to look a lot more complex than neccessary if you are simply looking to start with C++ in UE4. I'm using this project to create tutorials and you can use it in your own way!
+Aangezien ik onbekend ben met vrijwel alles c++ heb ik besloten om een tutorial te volgen waarin ik een simpele opzet voor een FPS-spelletje gemaakt heb.
 
-![alt text](https://www.tomlooman.com/wp-content/uploads/2017/09/Thumb_FPSTemplate2.jpg)
+Na afloop van de tutorial heb ik zelf een nieuwe soort kogel gemaakt die een explosive charge spawnt wanneer het iets raakt.
+Deze explosive charge geeft ook een kracht mee met de blokken die geraakt zijn.
 
-This project is licensed under the Unreal Engine 4 EULA.
+Verder heb ik van de tutorial veel geleerd over de verschillen tussen c# en c++ en hoe ik er mee om moet gaan.
+
+Tutorial link: (bron)
+https://www.youtube.com/watch?v=D4UM73O7Zxs&list=PLrRmsT-jf_qrwc6P0cXZNOhC7rwEPCUjK
