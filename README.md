@@ -11,3 +11,4 @@ Verder heb ik van de tutorial veel geleerd over de verschillen tussen c# en c++ 
 
 Tutorial link: (bron)
 https://www.youtube.com/watch?v=D4UM73O7Zxs&list=PLrRmsT-jf_qrwc6P0cXZNOhC7rwEPCUjK
+(Hoewel de tutorial een uur duurt ben ik er een langere tijd mee bezig geweest omdat ik veel moeite had in het begin met c++.)
